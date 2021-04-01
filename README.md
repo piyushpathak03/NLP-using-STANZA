@@ -8,10 +8,13 @@ In addition, Stanza includes a Python interface to the CoreNLP Java package and 
 
 To summarize, Stanza features:
 
-Native Python implementation requiring minimal efforts to set up;
-Full neural network pipeline for robust text analytics, including tokenization, multi-word token (MWT) expansion, lemmatization, part-of-speech (POS) and morphological features tagging, dependency parsing, and named entity recognition;
-Pretrained neural models supporting 66 (human) languages;
-A stable, officially maintained Python interface to CoreNLP.
+1. Native Python implementation requiring minimal efforts to set up;
+
+2. Full neural network pipeline for robust text analytics, including tokenization, multi-word token (MWT) expansion, lemmatization, part-of-speech (POS) and morphological features tagging, dependency parsing, and named entity recognition;
+
+3. Pretrained neural models supporting 66 (human) languages;
+
+4. A stable, officially maintained Python interface to CoreNLP.
 
 Getting Started
 We strongly recommend installing Stanza with pip, which is as simple as:
